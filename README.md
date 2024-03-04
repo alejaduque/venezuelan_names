@@ -1,4 +1,4 @@
-# venezuelan_names
+# Character-based language models of spanish dialects (Spanish and Venezuelan)
 Character-based language models for generating names based in a Peninsular Spanish and Venezuelan corpus. To install dependencies run the following code on terminal:
 
 cd "PATH_TO_FOLDER_ORIGIN"
