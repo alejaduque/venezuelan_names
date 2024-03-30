@@ -28,7 +28,6 @@ The .ipynb files include
 *  name_predictor_esp.ipynb --> code of character-based language model for Peninsular spanish.
 *  name_predictor_vzl.ipynb --> ENHANCED code of character-based language model for Venezuelan spanish.
 * evaluation_analysis.ipynb --> code for analysing the data from the human evaluation survey of VENEZUELAN dataset.
-*histogram_
 
 
 
